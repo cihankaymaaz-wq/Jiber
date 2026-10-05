@@ -1,0 +1,12 @@
+{
+  "name": "jiber-saha-denetim",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "JİBER Saha Denetim ve Kalite Portalı",
+  "engines": { "node": ">=20" },
+  "dependencies": {
+    "nodemailer": "^6.9.16",
+    "pg": "^8.13.1"
+  }
+}
